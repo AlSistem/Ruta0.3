@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ruta</string>
+    <string name="Hello">Hola Mundo!</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="tbLatitud">Latitud</string>
+    <string name="tbLongitud">Longitud</string>
+</resources>
